@@ -1,1 +1,2 @@
-djangostart
+django
+pillow # For image handling in Django models
